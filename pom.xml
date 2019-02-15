@@ -90,12 +90,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://localhost:8085/mithun/repository/flipkart-releases/</url>
+	      <url>http://ec2-3-17-180-0.us-east-2.compute.amazonaws.com:8081/repository/MavenRelease/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://localhost:8085/mithun/repository/flipkart-snapshot/</url>
+	      <url>http://ec2-3-17-180-0.us-east-2.compute.amazonaws.com:8081/repository/MavenSnapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
